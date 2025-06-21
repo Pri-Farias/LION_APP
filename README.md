@@ -3,7 +3,9 @@
 <p align="center"><em>Projeto desenvolvido no desafio DIO + Santander, com foco na automação e organização de dados para o Imposto de Renda.</em></p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/rF07t68Y/Captura-de-tela-2025-06-21-135703.png" alt="Print da planilha Lion App">
+  <img src="https://i.postimg.cc/rF07t68Y/Captura-de-tela-2025-06-21-135703.png" width="30%">
+  <img src="https://i.postimg.cc/yW4jZbPw/Captura-de-tela-2025-06-21-135844.png" width="30%">
+  <img src="https://i.postimg.cc/x8SgkZgB/Captura-de-tela-2025-06-21-135953.png" width="30%">
 </p>
 
 ---
