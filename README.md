@@ -40,7 +40,7 @@ Desenvolver esse app sem VBA, sem macros e com limitação de elementos visuais 
 
 ## ▶️ Como Usar
 
-1. **Baixe o arquivo**: 📁 [Clique aqui para baixar o arquivo PROJETO_DIO2.xlsx](./docs/PROJETO_DIO2.xlsx)
+1. **Baixe o arquivo**: 📁 [Clique aqui para baixar o arquivo PROJETO_DIO2.xlsx](./PROJETO_DIO2.xlsx)
 2. **Abra no Excel Online ou Desktop**
 3. Acesse o **Menu Principal**
 4. Preencha as informações conforme cada aba
