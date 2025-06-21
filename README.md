@@ -38,7 +38,7 @@ Desenvolver esse app sem VBA, sem macros e com limitação de elementos visuais 
 
 ## ▶️ Como Usar
 
-1. **Baixe o arquivo**: [`Lion_App_IRPF.xlsx`](#) ← (substitua esse link pelo real)
+1. **Baixe o arquivo**: [`PROJETO DIO2.xlsx`](#) 
 2. **Abra no Excel Online ou Desktop**
 3. Acesse o **Menu Principal**
 4. Preencha as informações conforme cada aba
@@ -63,7 +63,7 @@ Desenvolver esse app sem VBA, sem macros e com limitação de elementos visuais 
 ## 👩‍💻 Autora
 
 **Pri Farias**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-priscilafarias-dev-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/priscilafarias-dev)  
+[![LinkedIn](https://www.linkedin.com/in/priscilafarias-dev)](https://www.linkedin.com/in/priscilafarias-dev)  
 
 ---
 
