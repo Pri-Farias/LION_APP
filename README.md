@@ -65,7 +65,8 @@ Desenvolver esse app sem VBA, sem macros e com limitação de elementos visuais 
 ## 👩‍💻 Autora
 
 **Pri Farias**  
-[![LinkedIn](https://www.linkedin.com/in/priscilafarias-dev)](https://www.linkedin.com/in/priscilafarias-dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visite%20meu%20perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/priscilafarias-dev)
+ 
 
 ---
 
